@@ -13,6 +13,8 @@ Trabalho prático de recriar a página da Netflix com:
 
 Neste trabalho foram feitas personalizações e assim criado o SCI-FI FLIX.
 
+As imagens foram retiradas do [The Movie DB - TMDB](https://www.themoviedb.org/?language=pt-BR).
+
 ## Instruções de instalação
 
 Estas instruções ajudarão você a instalar o aplicativo em sua máquina local.
